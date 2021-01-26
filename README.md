@@ -6,3 +6,4 @@ Navbar links work on each page.
 <br>
 Used the HTML validator from https://www.freeformatter.com/html-validator.html
 
+<img src = "./assets/css/Screenshot (25).png">
