@@ -1,4 +1,4 @@
-# Homework2
+# Personal Bio Page
 https://nwreese.github.io/Personal_Bio/
 <br>
 Made a personal bio page that is responsive to different devices. 
