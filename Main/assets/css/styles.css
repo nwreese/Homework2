@@ -4,7 +4,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Visual */
-  background-image: url("https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/31118026_2032593687014870_4770846146228649984_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=yFp4WwtR8sYAX-n5xvQ&_nc_ht=scontent-ort2-1.xx&oh=ed3075183fc091ba030d667cd5e43d4e&oe=5FEF0061");
+  background-image: url("https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/118321615_2649564715317761_463281563181708820_n.jpg?_nc_cat=101&ccb=2&_nc_sid=8bfeb9&_nc_ohc=gAqXIdM4CVUAX-9FjB0&_nc_ht=scontent-ort2-1.xx&oh=cb066120581475fd534ba4931317480a&oe=60354C07"); 
 }
 
 html {
@@ -30,7 +30,7 @@ main {
 
 .block-header {
   /* Typography */
-  color: #34f104;
+  color: #000000;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -42,10 +42,10 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: rgb(230, 7, 7);
+  color: rgb(158, 41, 41);
 
   /* Visual */
-  background: #05ee05;
+  background: #000000;
 }
 
 /* override bootstrap hover color and border */
@@ -131,7 +131,7 @@ main {
   /* Typography */
   font-size: 32px;
   font-weight: bold;
-  color: #00c92b;
+  color: #000301;
 }
 
 #about-image {
