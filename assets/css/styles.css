@@ -22,7 +22,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: rgb(133, 5, 5);
+  background-color: #c05f2f;
 
   padding: 30px;
   margin-bottom: 30px;
@@ -42,7 +42,7 @@ main {
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: rgb(158, 41, 41);
+  color: #c05f2f;
 
   /* Visual */
   background: #000000;
@@ -50,18 +50,18 @@ main {
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #b30000;
+  color: #c05f2f;
 }
 
 .navbar {
-  background: rgb(245, 28, 209);
+  background:#2f90c0;
   border: none;
 }
 
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #3ea800;
+    background-color: #2f90c0;
   }}
 /* END NAV */
 
@@ -99,7 +99,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: #666;
+  background-color:#2f90c0;
 }
 
 .text-muted-footer {
@@ -116,7 +116,7 @@ main {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #920000;
+  background-color: #c05f2f;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
@@ -169,10 +169,10 @@ main {
   font-weight: lighter;
 
   /* Typography */
-  color: rgb(255, 255, 255);
+  color: #2f90c0;
 
   /* Visual */
-  background-color: #aa4a4a;
+  background-color: #c05f2f;
   border: 0;
 }
 
