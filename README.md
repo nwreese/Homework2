@@ -9,5 +9,7 @@ Portfolio pictures take you to the project page
 <br>
 Used the HTML validator from https://www.freeformatter.com/html-validator.html
 
-<img src = "Screenshot (30).png">
+<img src = "Screenshot (71).png">
+<br>
+<img src = "Screenshot (72).png">
 
